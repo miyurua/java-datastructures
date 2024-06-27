@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Arrays;
 
-public class TwoDimArray {
+public class TwoDimArrayDemo {
     public static void main(String[] args) {
 //        declaring the board with the dimension sizes
         char[][] board = new char[3][3];
